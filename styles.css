@@ -1,0 +1,14 @@
+/* styles.css */
+section {
+  margin-bottom: 3rem;
+}
+.rounded-circle {
+  border: 3px solid #007bff;
+}
+.navbar-brand {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+.btn + .btn {
+  margin-left: 0.5rem;
+}

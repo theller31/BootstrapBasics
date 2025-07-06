@@ -1,4 +1,3 @@
-# BootstrapBasics
 # Bootstrap Basics Assignment
 
 ## Overview
@@ -21,12 +20,3 @@ This project demonstrates the use of Bootstrap to create a responsive webpage fe
 - Navbar with collapsible menu for better mobile navigation.
 
 ## File Structure
-/project-root
-│
-├── index.html # Main HTML file containing the Bootstrap page
-├── css/
-│ └── styles.css # Custom CSS styles (optional)
-├── images/
-│ ├── main-image.jpg # Main responsive image
-│ └── profile.jpg # Circular profile image
-└── README.md # This file
